@@ -9,7 +9,7 @@ Os dados são obtidos a partir do repositório [covid19br](https://github.com/wc
 
 ![Básica arquitetura](assets/arquitetura.png)
 
-- [Server](server/README.md)
+- [Server](server)
 - [Mobile](client)
 
 ### Telas
