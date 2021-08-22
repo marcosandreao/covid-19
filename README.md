@@ -14,10 +14,9 @@ Os dados são obtidos a partir do repositório [covid19br](https://github.com/wc
 
 ### Telas
 
-- Dados gerais
-![](assets/store/dados_gerais.png)
-- Dados por estado
-![](assets/store/dados_por_estados.png)
+|Dados gerais|Dados por estado|
+|---|---|
+|![](assets/store/dados_gerais.png)|![](assets/store/dados_por_estados.png)|
 
 
 ### 
