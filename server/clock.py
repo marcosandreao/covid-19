@@ -4,7 +4,7 @@ import brazil_total
 sched = BlockingScheduler()
 
 
-@sched.scheduled_job('interval', minute=12*60)
+@sched.scheduled_job('interval', hours=12)
 def scheduled_job():
     print('CRON: brazil_total start')
     brazil_total.run()

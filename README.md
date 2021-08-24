@@ -10,6 +10,8 @@ Os dados são obtidos a partir do repositório [covid19br](https://github.com/wc
 ![Básica arquitetura](assets/arquitetura.png)
 
 - [Server](server/README.md)
+    - HEROKU deploy:  ```git push heroku `git subtree split --prefix server `:master --force```
+
 - [Mobile](client)
 
 ### Telas
